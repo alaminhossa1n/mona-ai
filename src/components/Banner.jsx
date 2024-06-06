@@ -1,5 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
 import bannerImg from "../assets/banner.png";
+import Pricing from "./Pricing";
 import Tabs from "./Tabs";
 
 const Banner = () => {
@@ -47,6 +48,8 @@ const Banner = () => {
         </div>
         <Tabs />
       </section>
+
+      <Pricing />
     </div>
   );
 };

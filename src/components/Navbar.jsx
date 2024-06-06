@@ -52,7 +52,9 @@ const Navbar = () => {
           </Link>
           <div className="border-l-2 border-gray-100 h-5"></div>
           <div className="relative flex items-center">
-            <FaLanguage />
+            <p className="text-3xl">
+              <FaLanguage />
+            </p>
             <select
               className="bg-transparent text-white p-2 focus:outline-none"
               name="language"
