@@ -79,7 +79,7 @@ const FAQs = () => {
                 Аsk Question
               </button>
             </div>
-            <div className="bottom-0 absolute">
+            <div className="bottom-10 absolute">
               <p className="text-gray-400">
                 Feel Free to Contact our Support Team at
               </p>

@@ -18,7 +18,7 @@ const Contact = () => {
               <input
                 type="text"
                 placeholder="Kathryn Murphy"
-                className="w-full px-4 py-4 rounded-lg focus:outline-none focus:ring focus:ring-primary-color bg-[#070C16]"
+                className="w-full px-4 py-4 text-gray-400 rounded-lg focus:outline-none focus:ring focus:ring-primary-color bg-[#070C16]"
               />
             </div>
             <div>
@@ -28,7 +28,7 @@ const Contact = () => {
               <input
                 type="text"
                 placeholder="(907) 555-0101"
-                className="w-full px-4 py-4 rounded-lg focus:outline-none focus:ring focus:ring-primary-color bg-[#070C16]"
+                className="w-full px-4 py-4 text-gray-400 rounded-lg focus:outline-none focus:ring focus:ring-primary-color bg-[#070C16]"
               />
             </div>
             <div>
@@ -38,7 +38,7 @@ const Contact = () => {
               <input
                 type="email"
                 placeholder="info@gmail.com"
-                className="w-full px-4 py-4 rounded-lg focus:outline-none focus:ring focus:ring-primary-color bg-[#070C16]"
+                className="w-full px-4 py-4 text-gray-400 rounded-lg focus:outline-none focus:ring focus:ring-primary-color bg-[#070C16]"
               />
             </div>
           </div>
